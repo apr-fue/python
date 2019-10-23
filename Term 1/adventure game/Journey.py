@@ -1,4 +1,6 @@
 #Pages
+#defining pages for text adventure game
+#10/19
 def pg1():
 	print("""Do not read this book straight through from beginning to end! These pages contain many different
 adventures you can go on as you journey under

@@ -1,0 +1,32 @@
+import turtle
+
+turtle.setup(width=1000, height=1000)
+x = turtle.Pen()
+
+x.shape("turtle")
+x.color("black")
+x.speed(0)
+x.width(5)
+
+x.pencolor("black")
+x.begin_fill()
+x.circle(20)
+x.end_fill()
+x.pencolor("white")
+x.width(0.1)
+x.goto(100, 0)
+x.begin_fill()
+x.circle(20)
+x.end_fill()
+x.goto(-20, -100)
+x.width(5)
+x.pencolor("black")
+x.rt(35)
+x.fd(50)
+x.left(70)
+x.fd(25)
+x.rt(60)
+x.fd(25)
+x.left(70)
+x.fd(40)
+

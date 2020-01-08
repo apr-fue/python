@@ -1,0 +1,161 @@
+Midterm Exam 2019  April Fuentes
+Printing /
+How would you want to display 'hello world'?
+print("hello world")
+write hello world on your monitor
+scream it at the your monitor
+open notepad and type hello world there
+1
+You use the print() function and text wrapped in quotations to display it.
+Python Basics 
+Who created Python?
+Guido von Rossum
+Bill Nye the Science Guy
+Pewdiepie
+Herobrine
+1
+Guido von Rossum got bored during his Christmas break and created Python as a hobby.
+Python Basics
+What year was Python officialy released??
+1991
+420 BCE
+2019
+4019
+1
+Guido von Rossum started working on Python in 1989 and released it to the public in 1991.
+Commenting
+What is a valid comment?
+#this is a valid comment
+hashtag this is a valid comment
+*this is a valid comment
+^this is a valid comment
+1
+Using a # in front of a comment won't display when you run the code but / is essential when you want to write a comment on what each block of code does.
+Python Basics
+In what order does Python execute lines of code?
+From top to bottom
+From bottom to top
+From side to side 
+Diagonally
+1
+Python was created to be an easy language, therfore having it run lines of code / from top to bottom would make more sense to beginners.
+Breaking Statements
+How would you break a long statement across multiple lines?
+A backslash \\
+A forward slash /
+You punch your monitor
+Shooting your monitor with a BB gun
+1
+It acts like the enter key if you want to have a statement on a seperate line.
+Python Basics
+Why is Python a good language for beginners to learn?
+Python is easy and free
+monke
+Bryan
+pufferfish
+1
+It was created with the intent of being a beginner language.
+Python Basics
+How many versions of Python are there?
+three
+one million
+no
+yes
+1
+There are three versions, inside each version had mini updates.
+Cursed
+Long Furby?
+long furby
+this aint it chief
+not this one either
+bro no
+1
+long furby
+IDE's
+What is an IDE?
+Integrated development enviroment
+i dont eknow
+what
+ide
+1
+An IDE is basically a program editor. 
+IDE'S
+What IDE do we use in class?
+IDLE
+Spyder
+Pycharm
+Your mom
+1
+We use IDLE in class because it comes with Python and it is beginner friendly.
+Variable naming conventions
+What is an appropriate variable name?
+your_mom
+x
+123
+your-mom
+1
+Variable names should be simple but not too simple like x and they should not / contain numbers in the front or dashes in them.
+Propaganda
+The birds work for ____?
+The bourgeoisie
+me
+no
+pigeons
+1
+The birds are military drones.
+Modules
+What does import do in Python?
+It imports a module into the code
+It imports goods
+it brings stuff in
+it does something
+1
+import brings in a module, which is a file containing specific functions, classes, etc.
+Modules
+Why do we want to import a module in?
+To bring a specific set a functions, classes, variables, etc.
+chaos
+For destruction
+To confuse us even more
+1
+Modules are used to break down large programs into small programs and there are / specific ones we may want to use in a program.
+Modules
+Which of the following is a module?
+math
+picels
+cryptid
+yourmom
+1
+math is a module we bring in if we want to use specific math functions.
+Python
+Where did Python get its name?
+From the television show Monty Python's Flying Circus
+from the snake
+motivational lizard
+Guido von Rossum was hanging with too many shady people.
+1
+Guido von Rossum liked the show.
+AP Calculus AB
+What is the derivative of x^5+2x^4+x^3+4x^2+100
+5x^4+8x^3+3x^2+8x
+not this one bruh
+bruv no
+dude this aint it
+1
+The power rule states that (d\dx)x^n=nx^n-1.
+Variables
+What is a variable?
+A named object that holds information.
+x
+a number
+something unknown
+1
+A variable is used to hold information for later use.
+Variables
+If you want a variable to equal some text, how would you do it?
+text = "some text"
+text = some text
+text = 50M3 73XT
+1text = "some text"
+1
+text has the appropriate variable name and since there is text inside of the / variable, it needs to be wrapped in quotations. / If it were ONLY numbers, no quotations are needed.
